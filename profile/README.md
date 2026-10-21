@@ -1,0 +1,1 @@
+desalpage is a governance substrate for recursive multi-agent work: agents delegating down a reporting structure, one bounded sprint at a time — budgets reserved before delegation, deferrals instead of silence.
